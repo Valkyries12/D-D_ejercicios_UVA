@@ -1,0 +1,31 @@
+.bgcImperio {
+    background-color: red;
+}
+
+.bgcRebelde {
+    background-color: blue;
+}
+
+#darthVader {
+    font-size: 40px;
+}
+
+#luke {
+    font-style: italic;
+}
+
+.dashedBorder {
+    border: 5px dashed green;
+}
+
+.spacing {
+    letter-spacing: 4px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.apoyo ul li {
+    text-transform: uppercase;
+}
