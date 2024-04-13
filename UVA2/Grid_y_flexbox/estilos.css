@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.title {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.section_flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.flexbox_item {
+    border-radius: 4px;
+    max-height: 305px;
+    min-height: 300px;
+    overflow: hidden;
+    width: 250px;
+}
